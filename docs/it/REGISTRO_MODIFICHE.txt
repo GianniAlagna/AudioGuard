@@ -1,0 +1,21 @@
+AudioGuard - Sintesi del log SVN (ricostruito)
+==============================================
+Traduzione di ../CHANGELOG.txt. In caso di divergenze fa fede la versione inglese.
+
+r412  09.12.2011  gal    CONGELATO. Progetto chiuso, vedi CHIUSURA.md
+r398  21.11.2011  mko    takedown: blocco firma nel modello DMCA, Takedown::send() in corso
+r377  02.11.2011  stu    fingerprint: idea passa-alto, commentata (peggiora il confronto)
+r351  18.10.2011  gal    risultati pilota ott. 2011 importati nella tabella hit (manuale)
+r340  11.10.2011  mko    web: elenco hit, UI per azioni cumulative (non collegata)
+r318  27.09.2011  stu    fingerprint: istogramma del matcher sulla differenza di offset
+r290  05.09.2011  mko    crawler: plugin torrent_rss, ancora senza supporto magnet
+r261  16.08.2011  mko    crawler: plugin filestube di nuovo funzionante dopo il loro redesign
+r233  29.07.2011  stu    fingerprint: rilevamento picchi con maximum_filter (scipy.ndimage)
+r201  04.07.2011  mko    web: KPI della dashboard, jQuery 1.6.2
+r174  10.06.2011  mko    sql: schema v3, indice invertito fp_hash
+r150  01.06.2011  gal    docs: specifica tecnica v0.3
+r097  03.05.2011  mko    crawler: classe base Source, struttura dello scheduler
+r041  12.04.2011  gal    sql: schema v1, importazione catalogo da CSV
+r001  07.03.2011  gal    importazione iniziale
+
+gal = G. Alagna, mko = sviluppatore PHP/Python freelance, stu = sviluppatore studente (DSP)

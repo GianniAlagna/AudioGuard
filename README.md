@@ -41,6 +41,8 @@ did not scale.
 
 ```
 docs/                Technical specification, architecture, legal notes, post-mortem
+docs/de/             German translation (Swiss spelling)
+docs/it/             Italian translation
 sql/                 MySQL 5.1 schema (InnoDB, utf8)
 fingerprint/         Python 2.6 + NumPy fingerprinting prototype (spectral peak hashing)
 crawler/             Python 2.6 crawler / scanner daemon (sources = plugins)
