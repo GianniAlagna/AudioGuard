@@ -1,0 +1,20 @@
+AudioGuard - SVN log summary (reconstructed)
+=============================================
+
+r412  2011-12-09  gal    FREEZE. Project discontinued, see DISCONTINUATION.md
+r398  2011-11-21  mko    takedown: DMCA template signature block, Takedown::send() WIP
+r377  2011-11-02  stu    fingerprint: highpass idea, commented out (breaks matching)
+r351  2011-10-18  gal    pilot results Oct 2011 imported into hit table (manual)
+r340  2011-10-11  mko    web: hits list, bulk actions UI (not wired)
+r318  2011-09-27  stu    fingerprint: matcher histogram on offset delta
+r290  2011-09-05  mko    crawler: torrent_rss plugin, no magnet support yet
+r261  2011-08-16  mko    crawler: filestube plugin works again after their redesign
+r233  2011-07-29  stu    fingerprint: peak picking with maximum_filter (scipy.ndimage)
+r201  2011-07-04  mko    web: dashboard KPIs, jQuery 1.6.2
+r174  2011-06-10  mko    sql: schema v3, fp_hash inverted index
+r150  2011-06-01  gal    docs: technical specification v0.3
+r097  2011-05-03  mko    crawler: base Source class, scheduler skeleton
+r041  2011-04-12  gal    sql: schema v1, catalogue import CSV
+r001  2011-03-07  gal    initial import
+
+gal = G. Alagna, mko = freelance PHP/Python dev, stu = student developer (DSP)
