@@ -1,0 +1,34 @@
+To: Abuse Department, {HOST}
+Date: {DATE}
+
+Notice of copyright infringement - request for removal
+
+Dear Sir or Madam,
+
+QT Records, Switzerland, is the producer of the sound recordings listed
+below and holds the exclusive rights to reproduce, distribute and make
+them available to the public.
+
+Works concerned:
+{WORKS}
+
+These recordings are made available through your service without our
+authorisation:
+{URLS}
+
+With this notice you have actual knowledge of the infringing content
+within the meaning of Art. 14 of Directive 2000/31/EC (E-Commerce
+Directive) and its national implementation. We request that you remove or
+disable access to the content expeditiously, and at the latest within
+5 working days, and confirm this to us in writing.
+
+We confirm that the information in this notice is accurate to the best of
+our knowledge and that the use complained of is not authorised by us or
+by law. All rights reserved.
+
+Kind regards,
+
+{SIGNATORY}
+QT Records
+[Street, ZIP City], Switzerland
+{FROM}

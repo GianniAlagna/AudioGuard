@@ -1,0 +1,40 @@
+An: Abuse-Abteilung / Rechtsabteilung, {HOST}
+Datum: {DATE}
+
+Aufforderung zur Entfernung urheberrechtsverletzender Inhalte
+
+Sehr geehrte Damen und Herren
+
+QT Records, Schweiz, ist Herstellerin der nachfolgend aufgeführten
+Tonaufnahmen und Inhaberin der ausschliesslichen Rechte zu deren
+Vervielfältigung, Verbreitung und Zugänglichmachung (Art. 36 URG,
+SR 231.1). Die Rechte der ausübenden Künstlerinnen und Künstler (Art. 33 URG)
+wurden uns vertraglich zur Online-Verwertung übertragen.
+
+Betroffene Werke:
+{WORKS}
+
+Über Ihren Dienst werden diese Aufnahmen ohne unsere Zustimmung öffentlich
+zugänglich gemacht:
+{URLS}
+
+Diese Zugänglichmachung verletzt unsere Rechte. Wir fordern Sie auf, die
+genannten Inhalte umgehend, spätestens jedoch innert 5 Arbeitstagen ab
+Erhalt dieses Schreibens, zu entfernen bzw. den Zugang zu sperren und uns
+dies schriftlich zu bestätigen.
+
+Wir weisen darauf hin, dass ab Kenntnis der Rechtsverletzung eine
+Mitwirkung im Sinne von Art. 50 OR in Betracht kommt. Wir behalten uns
+sämtliche Rechte vor, insbesondere zivilrechtliche Ansprüche nach
+Art. 62 URG sowie die Einreichung eines Strafantrags nach Art. 69 URG.
+
+Wir versichern, dass die vorstehenden Angaben nach bestem Wissen korrekt
+sind und die beanstandete Nutzung weder von uns noch durch Gesetz
+erlaubt ist.
+
+Freundliche Grüsse
+
+{SIGNATORY}
+QT Records
+[Strasse, PLZ Ort], Schweiz
+{FROM}

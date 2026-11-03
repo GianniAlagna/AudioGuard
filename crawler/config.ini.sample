@@ -1,0 +1,22 @@
+; AudioGuard crawler config - copy to config.ini, never commit config.ini
+
+[db]
+host     = localhost
+name     = audioguard
+user     = audioguard
+password = CHANGEME
+
+[http]
+user_agent = Mozilla/5.0 (compatible; AudioGuardBot/0.1; +http://www.qtrecords.ch/audioguard)
+timeout    = 20
+; seconds between requests to the same domain (spec 2.2)
+delay      = 3
+
+[google_cse]
+; free tier = 100 queries/day -> not enough (340 tracks x 3 queries)
+api_key  =
+cx       =
+
+[torrent_rss]
+; one feed per line, music category only
+feeds =
